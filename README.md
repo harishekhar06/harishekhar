@@ -35,11 +35,3 @@ src="https://img.shields.io/github/followers/harishekhar06?logo=github&style=for
 <a href="http://www.github.com/harishekhar06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harishekhar06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/harishekhar06"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=harishekhar06&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/harishekhar"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</ul>
